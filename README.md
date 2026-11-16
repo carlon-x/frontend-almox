@@ -2,11 +2,17 @@
 
 Interface web desenvolvida em **React** e **Vite** para gerenciamento visual de estoque, ferramentas, locais de armazenamento e controle de usuários da subestação. O sistema consome a API REST do almoxarifado com autenticação via **JWT** e controle de permissões por perfil (`admin` e `user`).
 
+## 🌐 Aplicação em Produção (Deploy)
+
+- **Acesse o Sistema Online:** https://almoxarifado-spsl.onrender.com
+- **API Consumida:** https://api-almox-spsl.onrender.com
+
 ---
 
 ## 📋 Índice
 
 - [⚡ Front-end - Controle de Almoxarifado SPSL (Celesc)](#-front-end---controle-de-almoxarifado-spsl-celesc)
+  - [🌐 Aplicação em Produção (Deploy)](#-aplicação-em-produção-deploy)
   - [📋 Índice](#-índice)
   - [🚀 Tecnologias Utilizadas](#-tecnologias-utilizadas)
   - [🗂️ Arquitetura do Projeto](#️-arquitetura-do-projeto)
