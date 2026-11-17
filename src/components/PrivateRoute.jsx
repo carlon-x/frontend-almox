@@ -1,6 +1,6 @@
 import React from 'react';
 
-// Um componente igual ao do print para proteger telas futuras contra usuários sem login
+// componente para proteger telas futuras contra usuários sem login
 export default function PrivateRoute({ children }) {
   const token = localStorage.getItem('@Almox:token');
 
